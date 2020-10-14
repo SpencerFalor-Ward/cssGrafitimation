@@ -24,12 +24,12 @@
 }
 .aL2 {
   outline: 40px purple;
-  margin: 100px auto 0 auto;
-  border-top: 20px;
+  margin: 83px auto 0 auto;
+  border-top: 30px;
   text-align: center;
-  display: block;
-  width: 100px;
-  height: 154px;
+  display: inline-block;
+  width: 74px;
+  height: 98px;
   background-color: black;
-  border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
+  border-radius: 50% 50% 50% 50%/ 40% 40% 60% 60%;
 }
