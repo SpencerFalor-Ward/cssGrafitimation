@@ -3,16 +3,33 @@
   }
 
   #wall {
-  /* width: 700px; */
-  /* height: 500px; */
-  background-color:grey;
-  border: purple;
-  }
-  
-  body {
   width: 700px;
   height: 500px;
   background-color:grey;
-  border: purple;
-  }
-  
+  border: 40px purple;
+  display: block;
+  margin: 100px auto 0 auto;
+  text-align: center;
+}
+
+.aL1 {
+  outline: 40px purple;
+  margin: 100px auto 0 auto;
+  text-align: center;
+  display: block;
+  width: 126px;
+  height: 180px;
+  background-color: red;
+  border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
+}
+.aL2 {
+  outline: 40px purple;
+  margin: 100px auto 0 auto;
+  border-top: 20px;
+  text-align: center;
+  display: block;
+  width: 100px;
+  height: 154px;
+  background-color: black;
+  border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
+}
