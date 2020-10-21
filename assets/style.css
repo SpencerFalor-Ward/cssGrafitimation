@@ -77,3 +77,14 @@
   background-color: red;
   border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
 }
+
+.aL8 {
+  margin: 3px auto 0px 10px;
+  border-top: 30px;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background: white;
+  border-radius: 50%;
+  z-index: 0;
+}
