@@ -79,12 +79,32 @@
 }
 
 .aL8 {
-  margin: 3px auto 0px 10px;
+  margin: 3px auto 0px 14px;
   border-top: 30px;
   position: absolute;
   width: 20px;
   height: 20px;
-  background: white;
+  background: black;
+  border-radius: 50%;
+  z-index: 0;
+}
+.aL9 {
+  margin: 3px auto 0px 8px;
+  border-top: 30px;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background:white;
+  border-radius: 50%;
+  z-index: 0;
+}
+.aL10 {
+  margin: -2px auto 0px 1px;
+  border-top: 30px;
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  background:white;
   border-radius: 50%;
   z-index: 0;
 }
