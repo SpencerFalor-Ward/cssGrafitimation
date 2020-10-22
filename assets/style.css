@@ -7,104 +7,131 @@
   height: 500px;
   background-color:grey;
   border: 40px purple;
-  display: block;
+  display: inline-block;
   margin: 100px auto 0 auto;
   text-align: center;
   position: relative;
 }
 
 .aL1 {
-  margin: 100px auto 0 auto;
+  margin: -29px auto 0 auto;
   text-align: center;
-  display: block;
+  display: inline-block;
+  position: relative;
   width: 126px;
   height: 180px;
   background-color: red;
   border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
+  z-index: 3;
 }
 .aL2 {
   margin: 83px auto 0 auto;
   border-top: 30px;
   display: inline-block;
+  position: relative;
   width: 74px;
   height: 98px;
   background-color: black;
   border-radius: 50% 50% 50% 50%/ 40% 40% 60% 60%;
+  z-index: 4;
 }
 .aL3 {
   margin: 38px auto 0 auto;
   border-top: 30px;
   display: inline-block;
+  position: relative;
   width: 74px;
   height: 98px;
   background-color: grey;
   border-radius: 50% 50% 50% 50%/ 40% 40% 60% 60%;
+  z-index: 5;
 }
 .aL4 {
   margin: -98px auto 0 auto;
+  display: inline-block;
+  position: relative;
   width: 60px;
   height: 45px;
   background-color: black;
   border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
-  z-index: 2;
+  z-index: 7;
 }
 .aL5 {
   margin: 23px auto 0px 5px;
   border-top: 30px;
-  position: absolute;
+  display: inline-block;
+  position: relative;
   width: 48px;
   height: 23px;
   background-color: grey;
   border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
-  z-index: 1;
+  z-index: 6;
 }
 
 .aL6 {
   margin: 22px auto 0px 49px;
   text-align: center;
-  display: block;
+  display: inline-block;
+  position: relative;
   width: 34px;
   height: 80px;
   background-color: red;
   border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
+  z-index: 8;
 }
 .aL7 {
   margin: -81px 40px 0px -9px;;
   text-align: center;
-  display: block;
+  display: inline-block;
+  position: relative;
   width: 34px;
   height: 80px;
   background-color: red;
   border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
+  z-index: 9;
 }
 
 .aL8 {
   margin: 3px auto 0px 14px;
   border-top: 30px;
-  position: absolute;
+  display: inline-block;
+  position: relative;
   width: 20px;
   height: 20px;
   background: black;
   border-radius: 50%;
-  z-index: 0;
+  z-index: 10;
 }
 .aL9 {
   margin: 3px auto 0px 8px;
   border-top: 30px;
-  position: absolute;
+  display: inline-block;
+  position: relative;
   width: 5px;
   height: 5px;
   background:white;
   border-radius: 50%;
-  z-index: 0;
+  z-index: 11;
 }
 .aL10 {
   margin: -2px auto 0px 1px;
   border-top: 30px;
-  position: absolute;
+  position: relative;
+  display: inline-block;
   width: 3px;
   height: 3px;
   background:white;
   border-radius: 50%;
+  z-index: 12;
+}
+.aL11 {
+  margin: 145px auto 0 auto;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  width: 126px;
+  height: 180px;
+  background-color: black;
+  border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
   z-index: 0;
 }
