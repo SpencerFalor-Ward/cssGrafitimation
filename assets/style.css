@@ -14,12 +14,12 @@
 }
 
 .aL1 {
-  margin: -21px auto 0 auto;
+  margin: -21px 0px 0 -2px;
   text-align: center;
   display: inline-block;
   position: relative;
   width: 126px;
-  height: 180px;
+  height: 183px;
   background-color: red;
   border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
   z-index: 3;
@@ -80,7 +80,7 @@
   z-index: 13;
 }
 .aL7 {
-  margin: -82px 41px 17px -21px;
+  margin: -82px 41px 17px -25px;
   text-align: center;
   display: inline-block;
   position: relative;
@@ -124,12 +124,12 @@
   z-index: 12;
 }
 .aL11 {
-  margin: 145px auto 0 auto;
+  margin: 145px 0px 0 0px;
   text-align: center;
   display: inline-block;
   position: relative;
-  width: 126px;
-  height: 180px;
+  width: 122px;
+  height: 181px;
   background-color: black;
   border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
   z-index: 0;
