@@ -14,7 +14,7 @@
 }
 
 .aL1 {
-  margin: -29px auto 0 auto;
+  margin: -21px auto 0 auto;
   text-align: center;
   display: inline-block;
   position: relative;
@@ -36,7 +36,7 @@
   z-index: 4;
 }
 .aL3 {
-  margin: 27px auto 0 auto;
+  margin: 31px auto 0 auto;
   border-top: 30px;
   display: inline-block;
   position: relative;
@@ -69,7 +69,7 @@
 }
 
 .aL6 {
-  margin: 22px auto 0px 49px;
+  margin: 22px auto -5px 49px;
   text-align: center;
   display: inline-block;
   position: relative;
@@ -80,7 +80,7 @@
   z-index: 13;
 }
 .aL7 {
-  margin: -83px 41px 21px -21px;
+  margin: -82px 41px 17px -21px;
   text-align: center;
   display: inline-block;
   position: relative;
@@ -136,7 +136,7 @@
   z-index: 0;
 }
 .aL12 {
-  margin: -79px auto 14px 46px;
+  margin: -83px auto 12px 47px;
   text-align: center;
   display: inline-block;
   position: relative;
@@ -147,7 +147,7 @@
   z-index: 8;
 }
 .aL13 {
-  margin: -104px 45px 33px -7px;
+  margin: -103px 45px 33px -10px;
   text-align: center;
   display: inline-block;
   position: relative;
