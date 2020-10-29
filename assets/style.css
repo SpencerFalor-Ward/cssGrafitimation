@@ -57,7 +57,7 @@
   z-index: 7;
 }
 .aL5 {
-  margin: 22px auto 0px 0px;
+  margin: 22px auto 0px 1px;
   border-top: 30px;
   display: inline-block;
   position: relative;
@@ -69,7 +69,7 @@
 }
 
 .aL6 {
-  margin: 23px auto 0px 49px;
+  margin: 22px auto 0px 49px;
   text-align: center;
   display: inline-block;
   position: relative;
@@ -80,11 +80,11 @@
   z-index: 13;
 }
 .aL7 {
-  margin: -86px 45px 19px -12px;
+  margin: -83px 41px 21px -21px;
   text-align: center;
   display: inline-block;
   position: relative;
-  width: 34px;
+  width: 37px;
   height: 80px;
   background-color: red;
   border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
@@ -136,18 +136,18 @@
   z-index: 0;
 }
 .aL12 {
-  margin: -59px auto 0px 49px;
-  text-align: center;
-  display: inline-block;
-  position: relative;
-  width: 30px;
+  margin: -83px auto 14px 49px;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    width: 30px;
   height: 87px;
   background-color: black;
   border-radius: 50% 50% 50% 50%/ 60% 60% 40% 40%;
   z-index: 8;
 }
 .aL13 {
-  margin: -86px 45px 19px -12px;
+  margin: -99px 45px 34px -12px;
   text-align: center;
   display: inline-block;
   position: relative;
