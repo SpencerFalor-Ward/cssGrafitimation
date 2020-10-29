@@ -103,7 +103,7 @@
   z-index: 10;
 }
 .aL9 {
-  margin: 3px auto 0px 8px;
+  margin: 0px auto 5px 4px;
   border-top: 30px;
   display: inline-block;
   position: relative;
@@ -114,10 +114,9 @@
   z-index: 11;
 }
 .aL10 {
-  margin: -2px auto 0px 1px;
+  margin: -2px auto 0px 3px;
   border-top: 30px;
   position: relative;
-  display: inline-block;
   width: 3px;
   height: 3px;
   background:white;
