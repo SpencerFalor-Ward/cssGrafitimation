@@ -157,12 +157,23 @@
   z-index: 9;
 }
 .aL14{
-  width: 0;
-  height: 0;
-  border-left: 50px solid transparent;
-  border-right: 50px solid transparent;
-  border-bottom: 100px solid red;
-  border-right-color: white;
-  border-left-color: white;
-
+  position: relative;
+  width: 200px;
+  height: 50px;
+}
+.line {
+  position: absolute;
+  width: 200px;
+  /* Height set to clip correctly basically background-size/2 + line width */
+  height: 26px;
+}
+.line1 {
+  background: linear-gradient(45deg, transparent, transparent 49%, red 49%, transparent 51%);
+}
+.line2 {
+  background: linear-gradient(-45deg, transparent, transparent 49%, red 49%, transparent 51%);
+}
+.line {
+  /* Must be after background definition. */
+  background-size: 50px 50px;
 }
