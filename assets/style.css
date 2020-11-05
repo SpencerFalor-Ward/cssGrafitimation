@@ -157,15 +157,17 @@
   z-index: 9;
 }
 .aL14{
+  margin: 0px 0px 0px 0px;
   position: relative;
   width: 200px;
   height: 50px;
+  z-index: 15;
 }
 .line {
   position: absolute;
-  width: 200px;
   /* Height set to clip correctly basically background-size/2 + line width */
-  height: 26px;
+    width: 56px;
+    height: 26px;
 }
 .line1 {
   background: linear-gradient(45deg, transparent, transparent 49%, red 49%, transparent 51%);
@@ -175,5 +177,5 @@
 }
 .line {
   /* Must be after background definition. */
-  background-size: 50px 50px;
+  background-size: 16px 50px;
 }
