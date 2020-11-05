@@ -157,7 +157,7 @@
   z-index: 9;
 }
 .aL14{
-  margin: 0px 0px 0px 0px;
+  margin: -135px 0px 0px 19px;
   position: relative;
   width: 200px;
   height: 50px;
@@ -166,14 +166,15 @@
 .line {
   position: absolute;
   /* Height set to clip correctly basically background-size/2 + line width */
-    width: 56px;
-    height: 26px;
+    width: 34px;
+    height: 20px;
 }
 .line1 {
-  background: linear-gradient(45deg, transparent, transparent 49%, red 49%, transparent 51%);
+  background: linear-gradient(45deg, transparent, transparent 49%, white 60%, transparent 60%);
+  /* border-bottom:5px solid red */
 }
 .line2 {
-  background: linear-gradient(-45deg, transparent, transparent 49%, red 49%, transparent 51%);
+  background: linear-gradient(-45deg, transparent, transparent 40%, white 60%, transparent 60%);
 }
 .line {
   /* Must be after background definition. */
