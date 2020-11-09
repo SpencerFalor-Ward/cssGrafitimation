@@ -162,21 +162,32 @@
   width: 200px;
   height: 50px;
   z-index: 15;
+  background: linear-gradient(-135deg, white 25%, transparent 25%) -50px 0, 
+  linear-gradient(135deg, white 25%, transparent 25%) -50px 0, 
+  linear-gradient(45deg, white 25%, transparent 25%),
+  linear-gradient(-45deg, white 25%, transparent 25%);
+background-size: 100px 100px;
 }
 .line {
-  position: absolute;
+  /* position: absolute; */
   /* Height set to clip correctly basically background-size/2 + line width */
-    width: 34px;
-    height: 20px;
+    /* width: 34px; */
+    /* height: 20px; */
 }
 .line1 {
-  background: linear-gradient(45deg, transparent, transparent 49%, white 60%, transparent 60%);
+  /* background: linear-gradient(45deg, transparent, transparent 49%, white 60%, transparent 60%); */
+  /* background: linear-gradient(-135deg, white 25%, transparent 25%) -50px 0, 
+  linear-gradient(135deg, white 25%, transparent 25%) -50px 0, 
+  linear-gradient(45deg, white 25%, transparent 25%),
+  linear-gradient(-45deg, white 25%, transparent 25%); */
+/* background-size: 100px 100px; */
   /* border-bottom:5px solid red */
 }
 .line2 {
-  background: linear-gradient(-45deg, transparent, transparent 40%, white 60%, transparent 60%);
+  /* background: linear-gradient(-45deg, transparent, transparent 40%, white 60%, transparent 60%); */
 }
 .line {
   /* Must be after background definition. */
-  background-size: 16px 50px;
+  /* background-size: 16px 50px; */
 }
+
